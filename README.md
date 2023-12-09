@@ -12,10 +12,10 @@
 
 ## Social
 
-[![](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg) **: chokinyan**  ](https://github.com/chokinyan)
+<strong align="left" style="width=35;height=35"><a href="https://www.github.com/chokinyan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="35" height="35" /> chokinyan</a></strong>
 
-[![](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg) **: chokinyan** p1 if it doesn't work try  **: ちょきにゃぬ**]()
+<strong align="left"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="35" height="35"/> chokinyan if it doesn't work try ちょきにゃぬ</strong>
 
-[![](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg) **: chokinyan** ](https://stackoverflow.com/users/20725436/chokinyan)
+<strong align="left" ><a href="https://stackoverflow.com/users/20725436/chokinyan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="35" height="35" /> chokinyan</a></strong>
 
-[![](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg) **: @LalaSaboun**](https://twitter.com/LalaSaboun)
+<strong align="left"><a href="https://twitter.com/LalaSaboun" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="35" height="35" /> @LalaSaboun</a></strong>
