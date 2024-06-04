@@ -12,10 +12,10 @@
 
 ## Social
 
-<strong align="left" style="width=35;height=35"><a href="https://www.github.com/chokinyan" target="_blank" rel="noreferrer"><svg src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="35" height="35" /> chokinyan</a></strong>
+<strong align="left" style="width=35;height=35"><a href="https://www.github.com/chokinyan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="35" height="35" /> chokinyan</a></strong>
 
-<strong align="left"><a href="https://discord.com/users/489650864441524232" target="_blank" rel="noreferrer"><svg src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="35" height="35"/> chokinyan</strong>
+<strong align="left"><a href="https://discord.com/users/489650864441524232" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="35" height="35"/> chokinyan</strong>
 
-<strong align="left" ><a href="https://stackoverflow.com/users/20725436/chokinyan" target="_blank" rel="noreferrer"><svg src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="35" height="35" /> chokinyan</a></strong>
+<strong align="left" ><a href="https://stackoverflow.com/users/20725436/chokinyan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="35" height="35" /> chokinyan</a></strong>
 
-<strong align="left"><a href="https://twitter.com/LalaSaboun" target="_blank" rel="noreferrer"><svg src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="35" height="35" /> @LalaSaboun</a></strong>
+<strong align="left"><a href="https://twitter.com/LalaSaboun" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="35" height="35" /> @LalaSaboun</a></strong>
