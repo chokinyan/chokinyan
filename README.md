@@ -3,7 +3,7 @@
 ## About me
 
 * 📕 Informatic and network studiant
-* 🇲🇫 French
+* French de la bonne france
 * 💻 Like coding
 * 🧠 Learn language when it's necessary or when I just want for fun
 * ✉️ You can contact me at [chokinyan@proton.me](mailto:chokinyan@proton.me)
